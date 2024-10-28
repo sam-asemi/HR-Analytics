@@ -1,4 +1,4 @@
-# hr_analytics_power_bi
+# HR Analytics
 Employee Performance &amp; Attrition Analysis with Power BI
 
 This project is a Power BI case study designed to create an interactive report for Atlas Labs, a fictitious tech company, focusing on employee performance metrics and attrition factors. The project provides the Atlas Labs HR team with key insights into employee performance ratings and aims to highlight factors impacting employee turnover.
