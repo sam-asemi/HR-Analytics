@@ -1,6 +1,6 @@
 # HR Analytics
 
-This project is a Power BI case study designed to create an interactive report for Atlas Labs, a fictitious tech company, focusing on employee performance metrics and attrition factors. The project provides the Atlas Labs HR team with key insights into employee performance ratings and aims to highlight factors impacting employee turnover.
+This project is a Power BI project designed to create an interactive report for Atlas Labs, a fictitious tech company, focusing on employee performance metrics and attrition factors. The project provides the Atlas Labs HR team with key insights into employee performance ratings and aims to highlight factors impacting employee turnover.
 
 Using a Kimball modeling approach with a snowflake schema, the data model consists of one fact table and multiple dimension tables:
 
