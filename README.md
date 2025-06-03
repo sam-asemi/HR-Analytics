@@ -15,3 +15,9 @@ Date (future addition, detailing year, quarter, month, and day)
 
 This report development project is a demonstration of data modeling in Power BI, with a focus on creating a structured, insightful dashboard for employee monitoring and decision-making.
 [HR_Analytics (1).pdf](https://github.com/user-attachments/files/20560959/HR_Analytics.1.pdf)
+
+
+![HR_Analytics 1-1](https://github.com/user-attachments/assets/c5bed3d3-1db2-4e49-acc0-43e8f6d0ae47)
+![HR_Analytics 1-2](https://github.com/user-attachments/assets/ed719fb7-31b9-4625-9dd0-5d3e9ca29270)
+![HR_Analytics 1-3](https://github.com/user-attachments/assets/37d75e44-3992-4539-92a6-62263aec8408)
+![HR_Analytics 1-4](https://github.com/user-attachments/assets/9d9ddc44-f3af-4d11-945e-4346564baf11)
