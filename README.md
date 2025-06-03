@@ -14,3 +14,4 @@ SatisfiedLevel
 Date (future addition, detailing year, quarter, month, and day)
 
 This report development project is a demonstration of data modeling in Power BI, with a focus on creating a structured, insightful dashboard for employee monitoring and decision-making.
+[HR_Analytics (1).pdf](https://github.com/user-attachments/files/20560959/HR_Analytics.1.pdf)
